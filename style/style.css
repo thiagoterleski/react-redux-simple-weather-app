@@ -1,0 +1,10 @@
+td.city {
+  width: 250px;
+  height: 150px;
+
+  vertical-align: middle !important;
+}
+input.input-search {
+  color: #fff;
+  width: 380px !important;
+}
