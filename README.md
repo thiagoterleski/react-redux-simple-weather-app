@@ -9,7 +9,8 @@ OpenWeatherMap [Redux](http://openweathermap.org/)?
 ```
 	> git clone git@github.com:thiagoterleski/react-redux-simple-weather-app.git
 	> cd react-redux-simple-weather-app
-	> In the file /src/actions/index.js change the cons API_KEY for yout API KEY created on http://openweathermap.org/forecast5
 	> npm install
 	> npm start
 ```
+
+!In the file /src/actions/index.js change the cons API_KEY for yout API KEY created on http://openweathermap.org/forecast5
